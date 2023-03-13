@@ -1,0 +1,10 @@
+{
+  "name": "m321-express",
+  "version": "1.0.0",
+  "description": "Basic Websockets server using Node.js, Express.js and ws; a Node.js WebSocket library",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.13.0"
+  }
+}
